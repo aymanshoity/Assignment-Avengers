@@ -1,4 +1,4 @@
-Assignment_ID: assignment_category_0001
+
 
 
 Assignment Avengers
@@ -7,7 +7,7 @@ Assignment Avengers
 Live Link: https://assignment-avengers.netlify.app/
 
 
-We have build a Website For Online Group study with friends.Basically we have emphasized on Assignment.Basically creating ,Updating and Grading Assignments..So the Project feature demonstrates that
+I have build a Website For Online Group study with friends using HTML,CSS,JS AND REACT JS IN FRONT-END AND IN THE BACKEND I HAVE USED MONGODB..Basically we have emphasized on Assignment.Basically creating ,Updating and Grading Assignments..So the Project feature demonstrates that 
 
 1. In this website any user are able to see all the created Assignments 
 
